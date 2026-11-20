@@ -5,8 +5,53 @@
     "state": "WI",
     "fiscal_year": 2025,
     "pages": 203,
+    "routed_count": 9,
     "pass_count": 113,
     "total_checks": 114,
     "contexts": 62
+  },
+  {
+    "slug": "boston-fy2025",
+    "title": "City of Boston FY2025 ACFR",
+    "state": "MA",
+    "fiscal_year": 2025,
+    "pages": 179,
+    "routed_count": 9,
+    "pass_count": 59,
+    "total_checks": 59,
+    "contexts": 28
+  },
+  {
+    "slug": "tampa-fy2025",
+    "title": "City of Tampa FY2025 ACFR",
+    "state": "FL",
+    "fiscal_year": 2025,
+    "pages": 427,
+    "routed_count": 9,
+    "pass_count": 105,
+    "total_checks": 111,
+    "contexts": 50
+  },
+  {
+    "slug": "denver-water-fy2024",
+    "title": "Denver Water FY2024 ACFR",
+    "state": "CO",
+    "fiscal_year": 2024,
+    "pages": 155,
+    "routed_count": 3,
+    "pass_count": 17,
+    "total_checks": 17,
+    "contexts": 2
+  },
+  {
+    "slug": "alpha-park-fy2025",
+    "title": "Alpha Park Public Library District FY2025 ACFR",
+    "state": "IL",
+    "fiscal_year": 2025,
+    "pages": 40,
+    "routed_count": 6,
+    "pass_count": 67,
+    "total_checks": 79,
+    "contexts": 20
   }
 ]
